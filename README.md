@@ -1,2 +1,2 @@
 # Blog
-First blog created in Rails
+First blog created in Ruby on Rails
